@@ -30,9 +30,9 @@ Each '|' or bar represents 1 point.
 --Created by Vlad on 2022--
 
 If the code sucks, sorry, I'm just learning to code. If you have a code suggestion, it would be much appreciated.
+I've tried my best to make the code simpler and cleaner so that most if not all can understand it.
 Also, if you see that there is a better solution to the endless if statements I have in command.py, create a pull 
-request at GitHub.
-If not then Yandere Dev will be proud;)
+request at GitHub. If not then Yandere Dev will be proud;)
 
 Cheers,
 Vlad                                                                                                                              
